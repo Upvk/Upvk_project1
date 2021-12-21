@@ -1,9 +1,14 @@
-.row
+.green
 {
-    background-color: aqua;
+    background-color: green;
 }
 
-.rows
+.blue
 {
-    background-color: rgb(94, 161, 161);
+    background-color: blue;
+}
+
+.red
+{
+    background-color: red;
 }
